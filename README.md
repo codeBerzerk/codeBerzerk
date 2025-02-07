@@ -33,12 +33,12 @@
 ### 🛠️ DevOps
 
 <p gap="30px" align="center">
-  <img src="https://skillicons.dev/icons?i=nginx,kubernetes,grafana,gcp,gitlab" />
+  <img src="https://skillicons.dev/icons?i=nginx,kubernetes,grafana,gcp" />
 </p>
 
 ### 🔧 Інструменти
 <p gap="30px" align="center">
-  <img src="https://skillicons.dev/icons?i=webpack,gulp,git,github," />
+  <img src="https://skillicons.dev/icons?i=webpack,gulp,git,github,gitlab" />
 </p>
 
 ---
