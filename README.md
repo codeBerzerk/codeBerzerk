@@ -31,7 +31,7 @@
   <img src="https://cdn.simpleicons.org/redux" alt="Redux" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/react" alt="React" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/chartjs" alt="Chart.js" width="50" height="50" />
+  <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="Chart.js" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="50" height="50" />
 </div>
 
