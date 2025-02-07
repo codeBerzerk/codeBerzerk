@@ -22,7 +22,7 @@
 
 ### 📌 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,vite,puppeteer,redux,react,typescript,chartjs,javascript" />
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,vite,redux,react,javascript" />
 </p>
 
 ### 🎨 UI & Стилізація
@@ -31,7 +31,7 @@
 </p>
 
 ### 🔧 Інструменти та DevOps
-<p align="center">
+<p align="between">
   <img src="https://skillicons.dev/icons?i=webpack,gulp,git,github,jira,trello" />
 </p>
 
