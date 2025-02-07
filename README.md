@@ -21,17 +21,17 @@
 ## 🛠 Стек технологій
 
 ### 📌 Frontend
-<p style="display: flex; justify-content: space-between;">
+<p gap="30px">
   <img src="https://skillicons.dev/icons?i=nextjs,typescript,vite,redux,react,javascript" />
 </p>
 
 ### 🎨 UI & Стилізація
-<p style="display: flex; justify-content: space-between;">
+<p gap="30px">
   <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,styledcomponents,sass,less,css3" />
 </p>
 
 ### 🔧 Інструменти та DevOps
-<p style="display: flex; justify-content: space-between;">
+<p gap="30px">
   <img src="https://skillicons.dev/icons?i=webpack,gulp,git,github,jira,trello" />
 </p>
 
