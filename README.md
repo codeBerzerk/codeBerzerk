@@ -27,7 +27,7 @@
 
 ### 🎨 UI & Стилізація
 <p gap="30px" align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,styledcomponents,sass,less,css3" />
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,styledcomponents,sass,less,css" />
 </p>
 
 ### 🔧 Інструменти та DevOps
