@@ -33,7 +33,7 @@
 ### 🛠️ DevOps
 
 <p gap="30px" align="center">
-  <img src="https://skillicons.dev/icons?i=nginx,kubernetes,grafana,gcp" />
+  <img src="https://skillicons.dev/icons?i=nginx,kubernetes,grafana,gcp,aws" />
 </p>
 
 ### 🔧 Інструменти
