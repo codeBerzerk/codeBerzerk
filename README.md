@@ -9,7 +9,7 @@
 ### 🔗 Зв'яжіться зі мною:
 <div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/bohdan-dubchak-0a235b246/">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="50" height="50" />
+    <img src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1747267200&v=beta&t=Mu_hhWYVT0QFqQVqEV6saeuCLOC31USO-KwKi6nn_XU" alt="LinkedIn" width="50" height="50" />
   </a>
   <a href="https://t.me/BeRZRk">
     <img src="https://cdn.simpleicons.org/telegram/2CA5E0" alt="Telegram" width="50" height="50" />
