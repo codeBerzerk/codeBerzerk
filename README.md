@@ -11,10 +11,7 @@
   <a href="https://www.linkedin.com/in/bohdan-dubchak-0a235b246/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
   </a>
-  <a href="https://t.me/BeRZRk" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" width="50" height="50" />
-  </a>
-  <a href="mailto:bodik@itcrowd.in.ua" target="_blank">
+  <a href="mailto:bohdan@itcrowd.in.ua" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" />
   </a>
 </p>
