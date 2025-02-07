@@ -30,9 +30,15 @@
   <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,styledcomponents,sass,less,css" />
 </p>
 
-### 🔧 Інструменти та DevOps
+### 🛠️ DevOps
+
 <p gap="30px" align="center">
-  <img src="https://skillicons.dev/icons?i=webpack,gulp,git,github,jira,trello" />
+  <img src="https://skillicons.dev/icons?i=nginx,kubernetes,grafana,gcp,gitlab" />
+</p>
+
+### 🔧 Інструменти
+<p gap="30px" align="center">
+  <img src="https://skillicons.dev/icons?i=webpack,gulp,git,github," />
 </p>
 
 ---
